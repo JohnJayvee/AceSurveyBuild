@@ -1,1 +1,0 @@
-import{r as l}from"./index-DMUg85mH.js";function e(e,i){var n,a;return l.isValidElement(e)&&-1!==i.indexOf(null!=(n=e.type.muiName)?n:null==(a=e.type)||null==(a=a._payload)||null==(a=a.value)?void 0:a.muiName)}export{e as i};

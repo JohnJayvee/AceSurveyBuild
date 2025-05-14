@@ -1,1 +1,0 @@
-import{j as e}from"./index-DMUg85mH.js";const t=()=>e("footer",{className:"w-full p-6 text-xs text-center text-gray-700 dark:bg-main-dark-bg dark:text-gray-200 md:text-sm",children:e("p",{children:"© 2024 All rights reserved by Management Information System"})});export{t as F};

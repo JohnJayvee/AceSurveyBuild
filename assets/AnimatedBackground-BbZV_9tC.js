@@ -1,0 +1,1 @@
+import{j as a}from"./index-BNkqHo3K.js";const r=()=>a("div",{className:"animated-lines",children:Array.from({length:8}).map(((r,e)=>a("div",{className:"line",style:{backgroundColor:Math.random()<.5?"rgba(255, 0, 0, 0.2)":"rgba(0, 255, 0, 0.2)"}},e)))});export{r as A};
