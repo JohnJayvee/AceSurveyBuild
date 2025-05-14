@@ -1,1 +1,0 @@
-import{u as s,j as e,N as a,O as n}from"./index-BNkqHo3K.js";function r(){const{userToken:r}=s();return r?e(a,{to:"/"}):e("div",{className:"min-h-screen px-4 bg-gray-50",children:e(n,{})})}export{r as default};
