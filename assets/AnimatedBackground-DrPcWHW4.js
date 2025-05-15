@@ -1,0 +1,1 @@
+import{j as a}from"./index-SHL3w69K.js";const t=()=>{const r=()=>Math.random()<.5?"rgba(255, 0, 0, 0.2)":"rgba(0, 255, 0, 0.2)";return a("div",{className:"animated-lines",children:Array.from({length:8}).map((o,n)=>a("div",{className:"line",style:{backgroundColor:r()}},n))})};export{t as A};
