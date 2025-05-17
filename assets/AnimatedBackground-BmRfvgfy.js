@@ -1,0 +1,1 @@
+import{r as n,j as a}from"./index-BLWymkAg.js";const o=n.memo(()=>{const r=()=>Math.random()<.5?"rgba(255, 0, 0, 0.2)":"rgba(0, 255, 0, 0.2)";return a("div",{className:"fixed inset-0 animated-lines",children:Array.from({length:8}).map((t,e)=>a("div",{className:"line",style:{backgroundColor:r()}},e))})});o.displayName="AnimatedBackground";export{o as A};
