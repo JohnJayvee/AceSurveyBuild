@@ -1,0 +1,1 @@
+import{u as a,j as t,N as s,O as r}from"./index-C2v8-Gbn.js";function u(){const{userToken:e}=a();return e?t(s,{to:"/"}):t("div",{className:"min-h-screen px-4 bg-gray-50",children:t(r,{})})}export{u as default};
