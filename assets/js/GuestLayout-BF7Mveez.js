@@ -1,0 +1,1 @@
+import{u as a,j as t,N as r,O as s}from"./index-Ba91v1Qf.js";import"./vendor-DEaQ3Ksq.js";import"./emotion-BTCi4LbY.js";function i(){const{userToken:e}=a();return e?t(r,{to:"/"}):t("div",{className:"min-h-screen px-4 bg-gray-50",children:t(s,{})})}export{i as default};
